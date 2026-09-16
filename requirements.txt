@@ -1,0 +1,13 @@
+groq
+mistralai
+huggingface_hub
+python-dotenv
+
+langchain
+langchain-groq
+langchain-mistralai
+langchain-huggingface
+
+transformers
+torch
+accelerate
